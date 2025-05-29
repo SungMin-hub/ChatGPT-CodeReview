@@ -4,8 +4,8 @@ npm-debug.log
 !mock-cert.pem
 .env
 coverage
-lib
+!lib
 *.cache/**
-dist/
+!dist/
 lambda/
 .serverless/
